@@ -4,7 +4,7 @@
 
 # This function takes in one number and returns one number.
 
-def main():
+def main()
     data = input()
     print(int(data[0])+int(data[1]))
 
